@@ -28,4 +28,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatyanakrivonogova)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatyanakrivonogova&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatyanakrivonogova&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatyanakrivonogova&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatyanakrivonogova&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatyanakrivonogova&theme=react&utcOffset=8)
+
 <!-- THE END -->
