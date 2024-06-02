@@ -6,6 +6,9 @@
  
   <!-- GitHub section -->
 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/cherrror)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:t.krivonogova@g.nsu.ru)
+
  ##  My GitHub Stats 
  
  <div>
