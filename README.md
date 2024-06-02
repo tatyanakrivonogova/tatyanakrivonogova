@@ -9,25 +9,24 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/cherrror)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:t.krivonogova@g.nsu.ru)
 
+
+### Languages and tools
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" title="c"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-plain.svg" title="cpp"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" title="linux"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/llvm/llvm-original.svg" title="llvm"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" title="git"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" title="jira"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" title="java"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="python"/>&nbsp;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" title="pytorch"/>;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" title="mysql"/>
+
  ##  My GitHub Stats 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatyanakrivonogova" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatyanakrivonogova&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tatyanakrivonogova&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/tatyanakrivonogova/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tatyanakrivonogova&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
-<!-- GitHub section: END -->
 
 <!-- THE END -->
