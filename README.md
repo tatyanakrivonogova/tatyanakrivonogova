@@ -1,12 +1,12 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tatyana</h3>
+<h3 align="center"><img src = "[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media1.tenor.com/m/11NW6dX4FCgAAAAC/happy-doggo.gif)" width = 30px> Hi there! I'm Tatyana</h3>
 
 <!-- code gif-->
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
  
   <!-- GitHub section -->
 
- ##  My GitHub Stats <img src = "https://media1.tenor.com/m/11NW6dX4FCgAAAAC/happy-doggo.gif" width = 35px> 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatyanakrivonogova" alt="Gift's LangStat" />
