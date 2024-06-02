@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media1.tenor.com/m/11NW6dX4FCgAAAAC/happy-doggo.gif)" width = 30px> Hi there! I'm Tatyana</h3>
+<h3 align="center"><img src = "https://media1.tenor.com/m/11NW6dX4FCgAAAAC/happy-doggo.gif" width = 30px> Hi there! I'm Tatyana</h3>
 
 <!-- code gif-->
 <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
