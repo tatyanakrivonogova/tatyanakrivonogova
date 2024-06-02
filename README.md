@@ -19,7 +19,7 @@
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" title="jira"/>&nbsp;
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" title="java"/>&nbsp;
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="python"/>&nbsp;
-<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" title="pytorch"/>;
+<img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" title="pytorch"/>&nbsp;
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" title="mysql"/>
 
  ##  My GitHub Stats 
