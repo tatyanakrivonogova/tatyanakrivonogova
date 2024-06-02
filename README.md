@@ -11,10 +11,10 @@
 
 ### 🦕 About me:
 
-- ★ I am finishing my third year at Novosibirsk State University.
-- ★ I am fond of low-level programming in C and C++.
-- ★ I love mathematics and physics.
-- ★ I'm improving my English.
+  ★ I am finishing my third year at Novosibirsk State University.
+  ★ I am fond of low-level programming in C and C++.
+  ★ I love mathematics and physics.
+  ★ I'm improving my English.
 
 ### Languages and tools
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" title="c"/>&nbsp;
