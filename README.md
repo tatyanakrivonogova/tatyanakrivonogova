@@ -9,6 +9,12 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/cherrror)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white&color=pink)](mailto:t.krivonogova@g.nsu.ru)
 
+### 🦕 About me:
+
+- ★ I am finishing my third year at Novosibirsk State University.
+- ★ I am fond of low-level programming in C and C++.
+- ★ I love mathematics and physics.
+- ★ I'm improving my English.
 
 ### Languages and tools
 <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-line.svg" title="c"/>&nbsp;
