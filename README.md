@@ -11,7 +11,7 @@
 
 ### 🦕 About me:
 
-  ★ I am finishing my third year at Novosibirsk State University.  
+  ★ I have finished my third year at Novosibirsk State University.  
   ★ I am fond of low-level programming in C and C++.  
   ★ I love mathematics and physics.  
   ★ I'm improving my English.  
